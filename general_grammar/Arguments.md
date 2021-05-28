@@ -1,0 +1,4 @@
+---
+aliases: [arguments, argument]
+---
+# Arguments

@@ -1,0 +1,6 @@
+---
+aliases: [て form]
+---
+# て Form
+## Derivation
+[[The Attributive Base|The attributive base]] of [[つる]].

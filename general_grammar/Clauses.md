@@ -1,0 +1,4 @@
+---
+aliases: [clauses, clause]
+---
+# Clauses
