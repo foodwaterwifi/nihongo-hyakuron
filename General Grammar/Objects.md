@@ -1,0 +1,4 @@
+---
+aliases: [objects, object]
+---
+# Objects

@@ -1,0 +1,4 @@
+---
+aliases: [demonstratives, demonstrative]
+---
+# Demonstratives

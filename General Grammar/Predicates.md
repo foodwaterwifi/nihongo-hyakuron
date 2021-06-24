@@ -1,0 +1,4 @@
+---
+aliases: [predicates, predicate]
+---
+# Predicates

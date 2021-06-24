@@ -1,0 +1,4 @@
+---
+aliases: [adjectivals, adjectival]
+---
+# Adjectivals

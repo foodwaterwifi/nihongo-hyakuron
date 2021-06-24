@@ -1,0 +1,4 @@
+---
+aliases: [subjects, subject]
+---
+# Subjects
